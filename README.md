@@ -2,7 +2,7 @@
 
 Currently  we're mainly using Vue/React, Laravel and golang in our products.
 
-If you need cheap web app you might check us out [here](Naumov.Space)
+If you need cheap web app you might check us out [here](https://Naumov.Space)
 
 <!--
 **Egorzhil/Egorzhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
